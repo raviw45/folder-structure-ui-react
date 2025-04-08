@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  text-align: start;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.icon {
+  width: 16px;
+  padding-left: 10px;
+}
+.name-container {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
